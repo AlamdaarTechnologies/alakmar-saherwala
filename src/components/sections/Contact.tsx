@@ -77,7 +77,7 @@ export function Contact() {
                                 <span className="font-mono">alakmarsaherwala@gmail.com</span>
                             </a>
 
-                            <a href="https://www.linkedin.com/in/alakmar-saherwala-a71077309/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors group">
+                            <a href="https://www.linkedin.com/in/alakmarsaherwala/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 text-gray-300 hover:text-white transition-colors group">
                                 <div className="p-3 bg-white/5 rounded-lg text-electric-500 group-hover:bg-electric-500/20 transition-colors">
                                     <Linkedin size={24} />
                                 </div>
